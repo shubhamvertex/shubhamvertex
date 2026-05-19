@@ -1,94 +1,105 @@
-<!-- 💖 Typing animation introduction -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=0ABAB5&center=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Shubham+Kumar!;Aspiring+Web+Developer+and+Data+Analyst;learning+by+building." alt="Typing SVG"/>
-  </a>
+
+# 🚀 Shubham Kumar
+
+### MERN Stack • DevOps Learner • Data Analyst
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;MERN+Stack+Developer;DevOps+%26+Cloud+Learner;System+Design+Enthusiast;Always+Learning+New+Things+🚀" />
+
 </div>
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=F42A37&style=flat" alt="shubhamkumar-86" /> </p>
 
-<br/>
+---
 
-<!-- 💜 Animated welcome GIF -->
+## 👨‍💻 About Me
 
+```js
+const shubham = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    techStack: ["MERN", "DevOps", "Cloud", "Data Analytics"],
+    currentlyLearning: ["System Design", "Docker", "Kubernetes"],
+    passion: "Building scalable and modern web applications",
+};
+```
 
-<br/>
+---
 
-<!-- 💛 Social badges -->
-[![X](https://img.shields.io/badge/X-0E090F?style=for-the-badge&logo=X&logoColor=blue)](https://x.com/Shubhamkumar240)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar-py/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shubhamkumar0024/)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/shubhamkurtha)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://www.geeksforgeeks.org/profile/shubhamkurtha)
+## ⚡ Tech Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,docker,linux,vscode&perline=8" />
 
-<!-- 💗 Skills & Tools Section -->
-<details open>
-<summary><b>Skills & Tools</b></summary>
-<br>
+</div>
 
-<!-- Frontend -->
-![HTML](https://img.shields.io/badge/HTML-ED4D07?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
+---
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/-Python-25C425?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+## 📊 GitHub Stats
 
-<!-- Frameworks & Libraries -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
+<div align="center">
 
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamvertex&show_icons=true&theme=tokyonight&border_radius=10" />
 
-<!-- Database -->
-![MySQL](https://img.shields.io/badge/MySQL-113682?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
-![PostgrSql](https://img.shields.io/badge/postgresql-0F2252?style=for-the-badge&logo=postgresql&logoColor=green)&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvertex&layout=compact&theme=tokyonight&border_radius=10" />
 
-<!-- DevOps & Tools -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+</div>
 
+---
 
-</details>
+## 🔥 GitHub Streak
 
-<br/>
+<div align="center">
 
-<!-- 💖 GitHub Stats -->
-<details open>
-<summary><b>⚡ My GitHub Performance</b></summary>
-<br/>
+<img src="https://streak-stats.demolab.com?user=shubhamvertex&theme=tokyonight&border_radius=10" />
 
-<!-- 💜 GitHub streak stats -->
-<img src="https://streak-stats.demolab.com/?user=shubhamvertex&theme=gotham&hide_border=false" width="450" />
-<br/>
-<!-- 💚 Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvertex&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</details>
+</div>
 
-<br/>
+---
 
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-</picture>
-<br>
+## 🏆 GitHub Trophies
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=shubhamvertex&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-<!-- 💖 Contact -->
-### You can reach me at: **<shubhamkurtha@gmail.com>**
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamvertex&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shubhamvertex">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/shubhamvertex">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:shubhamkurtha@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Repeat.” ✨
+
+<img src="https://komarev.com/ghpvc/?username=shubhamvertex&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
