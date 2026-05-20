@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Shubham Kumar
+# 🚀 Shubham Kumar🧑🏽‍💻
 
-### MERN Stack • DevOps Learner • Data Analyst
+### MERN Stack Developer • DevOps Learner • Data Analyst
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;MERN+Stack+Developer;DevOps+%26+Cloud+Learner;System+Design+Enthusiast;Always+Learning+New+Things+🚀" />
 
@@ -12,15 +12,29 @@
 
 ## 👨‍💻 About Me
 
-```js
-const shubham = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    techStack: ["MERN", "DevOps", "Cloud", "Data Analytics"],
-    currentlyLearning: ["System Design", "Docker", "Kubernetes"],
-    passion: "Building scalable and modern web applications",
-};
-```
+Hi there! I'm a passionate **MERN Stack Developer** and **Data Analyst** who enjoys building scalable web applications and turning raw data into meaningful insights. I love working on modern web technologies, solving real-world problems, and continuously learning new tools and frameworks.
+
+### 🚀 What I Do
+- Develop full-stack web applications using the **MERN Stack**
+- Build responsive and user-friendly interfaces
+- Create REST APIs and backend services
+- Analyze and visualize data for better decision-making
+- Work with databases, dashboards, and automation tools
+
+### 🛠️ Skills
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind, Next.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL, PostgreSql, Supabase
+- **Data Analytics:** Python, Pandas, NumPy, Power BI, Excel, sheet, Tableau, Seaborn, Matplotlib
+- **Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook
+
+### 🌱 Currently Learning
+- Advanced Backend Architecture & System Design
+- Data Visualization & Machine Learning
+- Devops, Cloud & Deployment Technologies
+
+---
+⭐ Always excited to collaborate on Web Development and Data Analytics projects!
 
 ---
 
